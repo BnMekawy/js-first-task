@@ -29,7 +29,7 @@ else{
     }
     else{
         let Msg5 = confirm("Are You wild ?")
-        if(Msg5===True){
+        if(Msg5===true){
             console.log("Lion")
             document.write("<h1>Lion</h1>")
         }
